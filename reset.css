@@ -1,0 +1,28 @@
+/*========= RESET ==========*/
+html{
+	box-sizing: border-box; /*Reseta bordar*/
+}
+
+*,
+*::before,
+*::after{
+	box-sizing: inherit; /*tamanho caixa*/
+}
+
+* {						/*margem e espaçamento geral*/
+	margin: 0;      
+	padding: 0;
+}
+
+ul{
+	list-style: none;  /*Reseta tipo de lista*/
+}
+
+a{                          /*Reseta link*/
+	text-decoration: none;
+}
+
+img{						/*Reseta tamanho img*/
+	width: 100%;
+	height: auto;
+}

@@ -1,0 +1,23 @@
+/*========= VARIABLES ==========*/
+
+
+:root{						/*Definindo variaveis raiz*/
+	font-size: 62.5%;
+
+	/*=fonts type=*/
+	--calibri-font: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	--poppins-font: 'Popins', sans-serif;
+	--dm-sans-font: 'DM Sans', sans-serif;
+
+
+	/* FONT SIZE */
+	--large-font-size:  10.0rem;
+	--small-font-size: 4.0rem;
+
+
+	/*COLORS*/
+	--bgcolor: #091921;
+	--contrast-color: #FF105E;
+	--ligther-color: #999A9A;
+	--darker-color: #2C2C2C;
+}
