@@ -172,7 +172,7 @@ Essa atualização contínua permite que:
 
 A Figura 1 apresenta a interface principal da aplicação.
 
-![Tela inicial](imagens/tela.png)
+![Tela inicial](imagens/digital_clock.png)
 
 *Figura 1 – Interface do relógio digital.*
 
