@@ -178,16 +178,6 @@ A Figura 1 apresenta a interface principal da aplicação.
 
 ---
 
-# Funcionamento
-
-A Figura 2 demonstra a aplicação em execução.
-
-![Funcionamento](imagens/funcionamento.png)
-
-*Figura 2 – Atualização da data e hora em tempo real.*
-
----
-
 # Como Executar
 
 1. Faça o download do projeto.
